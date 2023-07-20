@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/arthashastra.assignment/static/css/main.ce24d930.css",
+    "main.js": "/arthashastra.assignment/static/js/main.c24a2869.js",
+    "index.html": "/arthashastra.assignment/index.html",
+    "main.ce24d930.css.map": "/arthashastra.assignment/static/css/main.ce24d930.css.map",
+    "main.c24a2869.js.map": "/arthashastra.assignment/static/js/main.c24a2869.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce24d930.css",
+    "static/js/main.c24a2869.js"
+  ]
+}
